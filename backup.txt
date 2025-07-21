@@ -365,37 +365,15 @@ satisfaction. </li>
 <!-- Business & Technical Analysis Items -->
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-business">
               <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/business_and_technical_analysis/Scoping 1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/portfolio/doc.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>Sample Document 1</h4>
-                  <p>Technical Scoping Document</p>
-                  <a href="assets/img/portfolio/business_and_technical_analysis/Scoping 1.jpg"
-                    data-gallery="portfolio-gallery-app"
-                    class="glightbox preview-link"
-                    data-title="<a href='https://drive.google.com/file/d/1m5arLPOD50e4T7ts1cMTSHxQkR2E6iUV/view?usp=sharing' target='_blank' style='color: blue; text-decoration: underline;'>Technical Scoping Sample document link</a>">
-                    <i class="bi bi-zoom-in"></i>
-                  </a>
-                  <a href="portfolio-details-scoping.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <p>Technical Scoping</p>
+                  <a href="assets/img/portfolio/doc.png" title="Technical Scoping Sample document" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-business">
-              <div class="portfolio-content h-100">
-                <img src="assets/img/portfolio/business_and_technical_analysis/PID 1.jpg" class="img-fluid" alt="">
-                <div class="portfolio-info">
-                  <h4>Sample Document 2</h4>
-                  <p>Project Initialization Document</p>
-                  <a href="assets/img/portfolio/business_and_technical_analysis/PID 1.jpg"
-                    data-gallery="portfolio-gallery-app"
-                    class="glightbox preview-link"
-                    data-title="<a href='https://drive.google.com/file/d/1HbqJk5FLQ1E-sMnARCzBMcRocTln_6hP/view?usp=sharing' target='_blank' style='color: blue; text-decoration: underline;'>Project Initialization Sample document link</a>">
-                    <i class="bi bi-zoom-in"></i>
-                  </a>
-                  <a href="portfolio-details-pid.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
-                </div>
-              </div>
-            </div>
+            </div><!-- End Portfolio Item -->
 
 <!-- Web & Mobile Development Items -->
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-web">
@@ -663,7 +641,7 @@ satisfaction. </li>
 
       </div>
 
-    </section><!-- /Testimonials Section -->
+    </section>/Testimonials Section
 
     <!-- Contact Section -->
     <section id="contact" class="contact section">
